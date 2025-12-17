@@ -1,4 +1,4 @@
-/*#include <SDL.h>
+/*#include <SDL.h>didijdwiidwjdj
 #include <SDL_ttf.h>
 #include <stdio.h>
 #include <stdlib.h>
